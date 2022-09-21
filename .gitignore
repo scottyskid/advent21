@@ -1,2 +1,5 @@
 .venv/
 .vscode/launch.json
+
+# input files
+src/*.txt
